@@ -110,7 +110,7 @@
                                         Beneficiary Name:</i> <br> YAY DIAN MANDIRI TANGERANG
                                     <br>
                                     <i>
-                                        Account Number(IDR):</i> <br> 162-3-1-4910
+                                        Account Number(IDR):</i> <br> 162-301-4910
                                     <br>
                                     <i>
                                         Bank Name:</i> <br> BCA (Bank Central Asia)
